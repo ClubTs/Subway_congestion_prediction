@@ -1,4 +1,8 @@
 # LSTM을 이용한 지하철 혼잡도 예측
+
+발표 동영상 링크
+https://drive.google.com/file/d/1E7InyHzHSrmLSndiRikVJgiFYkDGTPn_/view?usp=sharing
+
 ## 목차
 1. [Members](#members)
 2. [Proposal](#i-proposal)
